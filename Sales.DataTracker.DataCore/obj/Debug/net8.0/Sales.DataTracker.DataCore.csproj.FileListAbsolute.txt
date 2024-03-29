@@ -1,0 +1,11 @@
+C:\Users\karlchristian.canlas\source\repos\Sales.DataTracker\Sales.DataTracker.DataCore\bin\Debug\net8.0\Sales.DataTracker.DataCore.deps.json
+C:\Users\karlchristian.canlas\source\repos\Sales.DataTracker\Sales.DataTracker.DataCore\bin\Debug\net8.0\Sales.DataTracker.DataCore.dll
+C:\Users\karlchristian.canlas\source\repos\Sales.DataTracker\Sales.DataTracker.DataCore\bin\Debug\net8.0\Sales.DataTracker.DataCore.pdb
+C:\Users\karlchristian.canlas\source\repos\Sales.DataTracker\Sales.DataTracker.DataCore\obj\Debug\net8.0\Sales.DataTracker.DataCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karlchristian.canlas\source\repos\Sales.DataTracker\Sales.DataTracker.DataCore\obj\Debug\net8.0\Sales.DataTracker.DataCore.AssemblyInfoInputs.cache
+C:\Users\karlchristian.canlas\source\repos\Sales.DataTracker\Sales.DataTracker.DataCore\obj\Debug\net8.0\Sales.DataTracker.DataCore.AssemblyInfo.cs
+C:\Users\karlchristian.canlas\source\repos\Sales.DataTracker\Sales.DataTracker.DataCore\obj\Debug\net8.0\Sales.DataTracker.DataCore.csproj.CoreCompileInputs.cache
+C:\Users\karlchristian.canlas\source\repos\Sales.DataTracker\Sales.DataTracker.DataCore\obj\Debug\net8.0\Sales.DataTracker.DataCore.dll
+C:\Users\karlchristian.canlas\source\repos\Sales.DataTracker\Sales.DataTracker.DataCore\obj\Debug\net8.0\refint\Sales.DataTracker.DataCore.dll
+C:\Users\karlchristian.canlas\source\repos\Sales.DataTracker\Sales.DataTracker.DataCore\obj\Debug\net8.0\Sales.DataTracker.DataCore.pdb
+C:\Users\karlchristian.canlas\source\repos\Sales.DataTracker\Sales.DataTracker.DataCore\obj\Debug\net8.0\ref\Sales.DataTracker.DataCore.dll
